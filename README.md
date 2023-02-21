@@ -2,7 +2,15 @@
 
 https://docs.djangoproject.com/en/4.1/intro/tutorial02/
 
-$ source tutorial-env/bin/activate
+$ `source tutorial-env/bin/activate`
+
+
+## Run de shell
+
+$ `python manage.py shell`
+
+
+## Structuur
 
 **mysite** directory one level lower - and contains the manage.py file
 
