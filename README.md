@@ -18,6 +18,12 @@ server will run on http://127.0.0.1:8000/
 
 http://127.0.0.1:8000/polls/
 
+http://127.0.0.1:8000/polls/34
+
+http://127.0.0.1:8000/polls/1/results/
+
+http://127.0.0.1:8000/polls/1/vote/
+
 http://127.0.0.1:8000/admin/
 
 
